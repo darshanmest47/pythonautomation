@@ -1,0 +1,1482 @@
+2020-10-07 21:32:40,775 : INFO : selectvals : Select-State
+2020-10-07 21:32:40,860 : INFO : selectvals : Maharashtra
+2020-10-07 21:32:40,860 : INFO : selectvals : Maharashtra
+2020-10-07 21:32:40,940 : INFO : selectvals : Andhra Pradesh
+2020-10-07 21:32:40,940 : INFO : selectvals : Andhra Pradesh
+2020-10-07 21:32:40,940 : INFO : selectvals : Andhra Pradesh
+2020-10-07 21:32:41,006 : INFO : selectvals : Karnataka
+2020-10-07 21:32:41,006 : INFO : selectvals : Karnataka
+2020-10-07 21:32:41,006 : INFO : selectvals : Karnataka
+2020-10-07 21:32:41,006 : INFO : selectvals : Karnataka
+2020-10-07 21:32:41,229 : INFO : selectvals : Tamil Nadu
+2020-10-07 21:32:41,229 : INFO : selectvals : Tamil Nadu
+2020-10-07 21:32:41,229 : INFO : selectvals : Tamil Nadu
+2020-10-07 21:32:41,229 : INFO : selectvals : Tamil Nadu
+2020-10-07 21:32:41,229 : INFO : selectvals : Tamil Nadu
+2020-10-07 21:32:41,412 : INFO : selectvals : Uttar Pradesh
+2020-10-07 21:32:41,412 : INFO : selectvals : Uttar Pradesh
+2020-10-07 21:32:41,412 : INFO : selectvals : Uttar Pradesh
+2020-10-07 21:32:41,412 : INFO : selectvals : Uttar Pradesh
+2020-10-07 21:32:41,412 : INFO : selectvals : Uttar Pradesh
+2020-10-07 21:32:41,412 : INFO : selectvals : Uttar Pradesh
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,490 : INFO : selectvals : Delhi
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,560 : INFO : selectvals : West Bengal
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,627 : INFO : selectvals : Kerala
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,694 : INFO : selectvals : Odisha
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,778 : INFO : selectvals : Telangana
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,849 : INFO : selectvals : Bihar
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:41,963 : INFO : selectvals : Assam
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,061 : INFO : selectvals : Rajasthan
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,129 : INFO : selectvals : Gujarat
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,180 : INFO : selectvals : Madhya Pradesh
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,258 : INFO : selectvals : Haryana
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,310 : INFO : selectvals : Chhattisgarh
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,362 : INFO : selectvals : Punjab
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,414 : INFO : selectvals : Jharkhand
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,467 : INFO : selectvals : Jammu and Kashmir
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,515 : INFO : selectvals : Uttarakhand
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,563 : INFO : selectvals : Goa
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,707 : INFO : selectvals : Puducherry
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,759 : INFO : selectvals : Tripura
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,811 : INFO : selectvals : Himachal Pradesh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,860 : INFO : selectvals : Chandigarh
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,911 : INFO : selectvals : Manipur
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:42,962 : INFO : selectvals : Arunachal Pradesh
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,014 : INFO : selectvals : Meghalaya
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,066 : INFO : selectvals : Nagaland
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,145 : INFO : selectvals : Ladakh
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,196 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,246 : INFO : selectvals : Sikkim
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,298 : INFO : selectvals : Mizoram
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,347 : INFO : selectvals : Daman and Diu
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,410 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-07 21:32:43,472 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:13,296 : INFO : selectvals : Select-State
+2020-10-09 18:26:13,479 : INFO : selectvals : Maharashtra
+2020-10-09 18:26:13,479 : INFO : selectvals : Maharashtra
+2020-10-09 18:26:13,597 : INFO : selectvals : Andhra Pradesh
+2020-10-09 18:26:13,597 : INFO : selectvals : Andhra Pradesh
+2020-10-09 18:26:13,597 : INFO : selectvals : Andhra Pradesh
+2020-10-09 18:26:13,677 : INFO : selectvals : Karnataka
+2020-10-09 18:26:13,677 : INFO : selectvals : Karnataka
+2020-10-09 18:26:13,677 : INFO : selectvals : Karnataka
+2020-10-09 18:26:13,677 : INFO : selectvals : Karnataka
+2020-10-09 18:26:13,818 : INFO : selectvals : Tamil Nadu
+2020-10-09 18:26:13,818 : INFO : selectvals : Tamil Nadu
+2020-10-09 18:26:13,818 : INFO : selectvals : Tamil Nadu
+2020-10-09 18:26:13,818 : INFO : selectvals : Tamil Nadu
+2020-10-09 18:26:13,818 : INFO : selectvals : Tamil Nadu
+2020-10-09 18:26:13,903 : INFO : selectvals : Uttar Pradesh
+2020-10-09 18:26:13,903 : INFO : selectvals : Uttar Pradesh
+2020-10-09 18:26:13,903 : INFO : selectvals : Uttar Pradesh
+2020-10-09 18:26:13,903 : INFO : selectvals : Uttar Pradesh
+2020-10-09 18:26:13,903 : INFO : selectvals : Uttar Pradesh
+2020-10-09 18:26:13,903 : INFO : selectvals : Uttar Pradesh
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:13,989 : INFO : selectvals : Delhi
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,089 : INFO : selectvals : West Bengal
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,185 : INFO : selectvals : Kerala
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,280 : INFO : selectvals : Odisha
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,362 : INFO : selectvals : Telangana
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,453 : INFO : selectvals : Bihar
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,549 : INFO : selectvals : Assam
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,636 : INFO : selectvals : Rajasthan
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,721 : INFO : selectvals : Gujarat
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,794 : INFO : selectvals : Madhya Pradesh
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,853 : INFO : selectvals : Haryana
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,915 : INFO : selectvals : Chhattisgarh
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:14,976 : INFO : selectvals : Punjab
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,037 : INFO : selectvals : Jharkhand
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,100 : INFO : selectvals : Jammu and Kashmir
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,171 : INFO : selectvals : Uttarakhand
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,232 : INFO : selectvals : Goa
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,294 : INFO : selectvals : Puducherry
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,359 : INFO : selectvals : Tripura
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,419 : INFO : selectvals : Himachal Pradesh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,482 : INFO : selectvals : Chandigarh
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,560 : INFO : selectvals : Manipur
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,620 : INFO : selectvals : Arunachal Pradesh
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,696 : INFO : selectvals : Meghalaya
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,830 : INFO : selectvals : Nagaland
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:15,946 : INFO : selectvals : Ladakh
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,017 : INFO : selectvals : Andaman and Nicobar Islands
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,078 : INFO : selectvals : Sikkim
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,142 : INFO : selectvals : Mizoram
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,203 : INFO : selectvals : Daman and Diu
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,275 : INFO : selectvals : Dadra and Nagar Haveli
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
+2020-10-09 18:26:16,333 : INFO : selectvals : Lakshadweep
