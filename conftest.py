@@ -1,39 +1,44 @@
 import pytest
+from allure_commons.types import AttachmentType
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
+import allure
+
 driver = None
+
+
 def pytest_addoption(parser):
     parser.addoption(
-        "--browser_name",action="store",default="chrome"
+        "--browser_name", action="store", default="chrome"
     )
 
 
 @pytest.fixture(scope="class")
-
 def setup(request):
-    browsername=request.config.getoption("--browser_name")
+    browsername = request.config.getoption("--browser_name")
     global driver
 
-    if browsername=='chrome':
-        driver=webdriver.Chrome(ChromeDriverManager().install())
+    if browsername == 'chrome':
+        driver = webdriver.Chrome(ChromeDriverManager().install())
         driver.maximize_window()
         driver.get("http://mynewportofolio.herokuapp.com/")
-        request.cls.driver=driver
+        request.cls.driver = driver
         yield
         driver.quit()
 
 
-    elif browsername=='firefox':
-        driver=webdriver.Firefox(executable_path=GeckoDriverManager().install())
+    elif browsername == 'firefox':
+        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
         driver.maximize_window()
         driver.get("http://mynewportofolio.herokuapp.com/")
-        request.cls.driver=driver
+        request.cls.driver = driver
         yield
         driver.quit()
 
     else:
         print('No Such driver')
+
 
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport(item):
@@ -51,6 +56,8 @@ def pytest_runtest_makereport(item):
         if (report.skipped and xfail) or (report.failed and not xfail):
             file_name = report.nodeid.replace("::", "_") + ".png"
             _capture_screenshot(file_name)
+            _capture_screenshot_allure(file_name)
+
             if file_name:
                 html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
                        'onclick="window.open(this.src)" align="right"/></div>' % file_name
@@ -59,5 +66,8 @@ def pytest_runtest_makereport(item):
 
 
 def _capture_screenshot(name):
-        driver.get_screenshot_as_file(name)
+    driver.get_screenshot_as_file(name)
 
+
+def _capture_screenshot_allure(name):
+    allure.attach(driver.get_screenshot_as_png(), name=name, attachment_type=AttachmentType.PNG)
