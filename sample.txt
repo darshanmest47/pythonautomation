@@ -1,0 +1,24 @@
+ Volume in drive E has no label.
+ Volume Serial Number is C4AC-1BE4
+
+ Directory of E:\pythonautomation
+
+20-10-2020  14:51    <DIR>          .
+20-10-2020  14:51    <DIR>          ..
+20-10-2020  10:22    <DIR>          .idea
+06-10-2020  16:51    <DIR>          .pytest_cache
+06-10-2020  19:36    <DIR>          assets
+20-10-2020  09:44             2,362 conftest.py
+20-10-2020  14:35           391,993 files.log
+07-10-2020  21:22               888 geckodriver.log
+06-10-2020  16:34               544 main.py
+06-10-2020  19:33               506 Mainclass.py
+20-10-2020  09:54    <DIR>          pom
+07-10-2020  21:32               610 repo.xml
+20-10-2020  14:51                 0 sample.txt
+06-10-2020  18:39               652 test_porto.py
+20-10-2020  10:33            15,243 test_porto.py_Testproto_test_five.png
+06-10-2020  19:34    <DIR>          utilities
+20-10-2020  09:45    <DIR>          __pycache__
+               9 File(s)        412,798 bytes
+               8 Dir(s)  458,372,349,952 bytes free
